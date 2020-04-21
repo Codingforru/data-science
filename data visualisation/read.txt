@@ -1,0 +1,9 @@
+step of data visualisation
+- usefull graph
+   -bar chart
+   -histogram
+   -boxplot
+   -pie chart
+   -scater plot
+   -line plot
+   
